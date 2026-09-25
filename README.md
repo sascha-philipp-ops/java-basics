@@ -1,4 +1,4 @@
-# java-fundamentals
+# java-basics
 structured collection of Java applications, algorithms, and code examples
 
 # ☕ Java Development & Core OOP Concepts
